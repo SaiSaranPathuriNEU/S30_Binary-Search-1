@@ -1,5 +1,5 @@
 // Time Complexity : O(log n): as we are not looking at n elements and reducing the number of elements searching everytime
-// Space Complexity : O(1) havent used any extra space for perform the operations
+// Space Complexity : O(1) havent used any extra space for performing the operations
 // Did this code successfully run on Leetcode : Yes
 // Any problem you faced while coding this : yeah, first submit in the code it used target <= high instead of using target <= nums[high],
 // that issue passed the basic test cases few on submit it failed 5 testcases then figured out what mistake i made
